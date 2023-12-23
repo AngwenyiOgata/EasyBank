@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop screeshot](./destop-shot.jpeg)
+![desktop screeshot](./desktop-shot.jpeg)
 
 ### Links
 
